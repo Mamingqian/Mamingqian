@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mamingqian
 - 👀 I’m interested in programming and computer science
-- 🌱 I’m currently learning basics in Matlab,c,cpp...
-- 💞️ I’m looking to collaborate on basic projects in these languages.
-- 📫 How to reach me: by email:mamingqian@outlook.com; by qq:1546309381
+- 🌱 I’m currently into research in AI4Science field and ML4CO(Machine Learning for Combinatorial Optimization)
+- 💞️ I’m looking to collaborate and discuss on these related topics.
+- 📫 How to reach me: by email: mamq@umich.edu
 
 <!---
 Mamingqian/Mamingqian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
